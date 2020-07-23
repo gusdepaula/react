@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Gustavo de Paula Santos",
+      "email": "gdepaula@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Carolina Mendes de Paula",
+      "email": "guscarolina@gmail.com"
+    }
+  ]
+}
