@@ -4,7 +4,7 @@
 }
 
 :root {
-  --blue: #15D1EA;
+  --red: #db202c;
   --black: #000000;
   --blackLighter: #9E9E9E;
   --gray: #474B4C;
@@ -12,7 +12,7 @@
   --grayLight: #FFFAFA;
   --grayMedium: #ECEFF0; 
   --white: #FFFFFF;
-  --primary: var(--blue);
+  --primary: var(--red);
   --secondary: var(--gray);
 }
 
